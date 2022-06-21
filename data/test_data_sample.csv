@@ -1,0 +1,3 @@
+index,provider_pri_spcl_cd,provider_state,patient_id,vacc_nm,pat_age,pag_gender,dxdt,diag_cd,label
+0,FM,WI,1749653304,MODERNA,58,F,3/10/2020,"[725, 154, 737]",0
+1,AM,GA,2438009674,PFIZER-BIONTECH,27,F,10/24/2019,"[75, 446, 369, 412, 111, 738, 545, 448, 635, 111]",1

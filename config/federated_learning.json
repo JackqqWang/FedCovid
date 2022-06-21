@@ -1,0 +1,14 @@
+{
+"FL" :
+[{
+	"iterations" : [500],
+	"algorithm" : ["FedAvg"],
+	"augmentation" : ["none"],
+	"n_clients" : [29],
+	"participation_rate" : [0.4],
+	"balancedness" : [1.0],
+	"compression" : [["fed_avg", {"n": 5}]],
+	"log_frequency" : [1],
+	"baseline":["CNN"]
+}]
+}
